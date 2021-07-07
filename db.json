@@ -63,9 +63,98 @@
   }
 },
 {
+  "asset": "Faena MEL",
+  "zone": "Mina Norte",
+  "name": "Comedor N9",
+  "status": "active",
+  "service_lines": {
+    "Lunch": {
+      "start_time": "11:00",
+      "finish_time": "14:00",
+      "bookings": 200,
+      "type": "standard"
+    },
+    "AM Snack": {
+      "start_time": "09:00",
+      "finish_time": "12:00",
+      "bookings": 200,
+      "type": "snack"
+    },
+    "PM Snack": {
+      "start_time": "12:30",
+      "finish_time": "22:00",
+      "bookings": 200,
+      "type": "snack"
+    }
+  }
+},
+{
+  "asset": "Faena MEL",
+  "zone": "Mina Norte",
+  "name": "Comedor N10",
+  "status": "active",
+  "service_lines": {
+    "Lunch": {
+      "start_time": "11:00",
+      "finish_time": "14:00",
+      "bookings": 200,
+      "type": "standard"
+    },
+    "AM Snack": {
+      "start_time": "09:00",
+      "finish_time": "12:00",
+      "bookings": 200,
+      "type": "snack"
+    },
+    "PM Snack": {
+      "start_time": "12:30",
+      "finish_time": "22:00",
+      "bookings": 200,
+      "type": "snack"
+    }
+  }
+}, 
+{
   "asset": "Puerto Coloso",
   "zone": "Edificio Corporativo",
   "name": "Edicorp - Complejo",
+  "status": "active",
+  "service_lines": {
+    "Breakfast": {
+      "start_time": "07:00",
+      "finish_time": "10:00",
+      "bookings": 200,
+      "type": "standard"
+    },
+    "Lunch": {
+      "start_time": "11:00",
+      "finish_time": "14:00",
+      "bookings": 200,
+      "type": "standard"
+    },
+    "Dinner": {
+      "start_time": "16:00",
+      "finish_time": "20:00",
+      "bookings": 200,
+      "type": "standard"
+    },
+    "AM Snack": {
+      "start_time": "09:00",
+      "finish_time": "12:00",
+      "bookings": 200,
+      "type": "snack"
+    },
+    "PM Snack": {
+      "start_time": "12:30",
+      "finish_time": "22:00",
+      "bookings": 200,
+      "type": "snack"
+    }
+  },
+  {
+  "asset": "Puerto Coloso",
+  "zone": "Edificio Corporativo",
+  "name": "Edicorp - Complejo 2",
   "status": "active",
   "service_lines": {
     "Breakfast": {
