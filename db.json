@@ -150,8 +150,9 @@
       "bookings": 200,
       "type": "snack"
     }
-  },
-  {
+  }
+},
+{
   "asset": "Puerto Coloso",
   "zone": "Edificio Corporativo",
   "name": "Edicorp - Complejo 2",
